@@ -7,8 +7,8 @@
 - **AI-powered Student Learning Partener WebApp** with MERN stack and ML models
 
 🌱 I’m learning:
-- Advanced React patterns, API integrations
-- Machine learning & AI use cases in healthcare
+- Advanced React patterns and NextJS features
+- Machine learning & Sockets applications
 
 💡 Goals:
 - Build unique web platforms with real-world impact
@@ -24,9 +24,9 @@
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 
 ---
 
@@ -34,6 +34,7 @@
 
 - 🎮 **Hospital Management App** — Flask based server side rendered project
 - 🍽️ **Full-stack Food Ordering App** — Built using React + Flask + MySQL with animations, maps, payment gateway and admin dashboard
+- 🎬 **Movie Explorer and Personal Library** — A simple responsive Next.js 15 project that uses MongoDB for database management
 - 🎥 **Movie Seat Booking in C** — Terminal-based system using linked lists for smart reallocation and search
 
 ---
