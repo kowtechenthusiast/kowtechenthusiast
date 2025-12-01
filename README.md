@@ -100,14 +100,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kowtechenthusiast/kowtechenthusiast/main/github-metrics.svg" />
-</p>
-
----
-
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
