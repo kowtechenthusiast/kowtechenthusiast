@@ -45,8 +45,25 @@
 
 ---
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kowtechenthusiast&theme=radical)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kowshik2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Kowshik2004&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kowtechenthusiast&theme=radical" />
+</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kowtechenthusiast&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kowtechenthusiast&theme=redical" />
+</p>
+<img src="https://github.com/kowtechenthusiast/kowtechenthusiast/blob/main/github-metrics.svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kowtechenthusiast&color=red" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kowtechenthusiast&theme=radical&margin-w=10" />
 </p>
 
 
