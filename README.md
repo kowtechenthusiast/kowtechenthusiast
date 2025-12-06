@@ -72,11 +72,15 @@
 
 ---
 
-<h2 align="center">🔥 Streak & Activity</h2>
+<h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kowtechenthusiast&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kowtechenthusiast&theme=radical&margin-w=10" />
 </p>
+
+---
+
+<h2 align="center">🔥 Streak & Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kowtechenthusiast&theme=redical" />
@@ -88,14 +92,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kowtechenthusiast&theme=radical" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kowtechenthusiast&theme=radical&margin-w=10" />
 </p>
 
 ---
